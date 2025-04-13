@@ -73,3 +73,5 @@ Miniproject GIT .ipynb        - Core Working of Generative Image to Text Transfo
 
 images                        - Contains visual documentation of workflow ,streamlit ouput pic 1 for uploading an input image  and pic 2 
                                  for Caption Generator for the image 
+
+Copy_of_image_caption_gen.ipynb - Output have been created via colab notebook
