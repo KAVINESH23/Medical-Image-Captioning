@@ -63,6 +63,7 @@ Deploy on cloud for scalable access in telemedicine
 # STREAMLIT
 
  Input of an user                   : https://github.com/KAVINESH23/Medical-Image-Captioning/blob/main/images/pic%201.png?raw=true
+ 
  Output by captioning of an image   : https://github.com/KAVINESH23/Medical-Image-Captioning/blob/main/images/pic%202.png?raw=true
 
 # PROJECT FILES
